@@ -1,6 +1,6 @@
 ﻿using System;
 
-int Fibonacci(int number)
+static int Fibonacci(int number)
 {
     switch (number)
     {
